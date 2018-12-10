@@ -5,9 +5,7 @@ import time
 import random
 import copy
 
-#
 class Othello:
-
     def play(self):
         start_time = time.time()
         board = Board()
