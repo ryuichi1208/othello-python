@@ -5,7 +5,6 @@ import time
 import random
 import copy
 
-
 #
 class Othello:
 
