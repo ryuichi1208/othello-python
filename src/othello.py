@@ -151,7 +151,6 @@ class Computer(Player):
 
 
 class User(Player):
-
     def think(self, board, availables):
         while True:
             print("打てる場所(Y, X): " + str(availables))   # 内部のx,yと表示のX,Yが逆なので注意
